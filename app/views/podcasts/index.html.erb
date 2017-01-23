@@ -1,0 +1,32 @@
+<h1>
+  <% if @title %>
+    <%= link_to raw(@title), @feed_url %>
+    <%= link_to raw('&#9654;'), {action: :play_all, feed: @feed_url}, {title: 'Play all, replacing any current playlist'} %>
+    <%= link_to '(+)', {action: :add_all, feed: @feed_url}, {title: 'Cue all to play later'} %>
+  <% else %>
+    Podcasts on Sonos
+  <% end %>
+  <hr/>
+  <form method="GET" action="/">
+    <input style="width: 50%;min-width:200px;" name="feed" value="<%= @feed_url %>" id="feed_url_input"/>
+    <input type="submit" value="Fetch feed"/>
+  </form>
+</h1>
+
+<% if @items %>
+<ul>
+  <% @items.each_with_index do |item, i| %>
+    <li>
+      <% duration = item.try(:itunes_duration) %>
+      <% date = item.try(:published) %>
+      <% media_url = media_url(item) %>
+
+      <%= link_to "#{item.title} / #{time_ago_in_words(date)} ago / #{duration}", item.url %>
+      <%= link_to raw('&#9654;'), {action: :play_one, episode: media_url, feed: @feed_url}, {title: 'Play all, replacing any current playlist'} %>
+      <%= link_to '(+)', {action: :add_one, episode: media_url, feed: @feed_url}, {title: 'Cue to play later'} %>
+    </li>
+  <% end %>
+</ul>
+<% else %>
+  <div>Enter a podcast feed URL.</div>
+<% end %>
