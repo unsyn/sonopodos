@@ -1,0 +1,1152 @@
+
+---
+ar_internal_metadata:
+  columns:
+  - key
+  - value
+  - created_at
+  - updated_at
+  records: 
+  - - environment
+    - production
+    - '2016-10-24 02:30:31.184628'
+    - '2016-10-24 02:30:31.184628'
+
+---
+podcasts:
+  columns:
+  - id
+  - title
+  - feed_url
+  - page_url
+  - content_updated_at
+  - created_at
+  - updated_at
+  - episode_added_at
+  - caching
+  records: 
+  - - 1
+    - DAS PODCAST UFO
+    - http://podcast-ufo.fail/?feed=podcast
+    - http://podcast-ufo.fail
+    - 
+    - '2016-01-30 23:55:04.769533'
+    - '2017-01-20 17:32:39.103468'
+    - '2017-01-20 17:21:35'
+    - true
+  - - 2
+    - The Lunatic Fringe
+    - http://feeds.feedburner.com/TheLunaticFringe
+    - http://tim.pritlove.org
+    - 
+    - '2016-01-30 23:55:42.837268'
+    - '2016-11-25 15:44:23.778840'
+    - '2010-04-27 16:44:25.000000'
+    - true
+  - - 3
+    - Bitstaub
+    - http://bitstaub.diskordia.org/?feed=bitstaub
+    - http://bitstaub.diskordia.org
+    - 
+    - '2016-01-30 23:59:26.585557'
+    - '2016-12-05 18:45:22.413268'
+    - '2016-12-05 15:44:28'
+    - true
+  - - 4
+    - Insert Moin
+    - http://www.insertmoin.de/podcast
+    - http://insertmoin.de
+    - 
+    - '2016-01-30 23:59:43.431808'
+    - '2017-01-23 00:28:34.363853'
+    - '2017-01-22 23:32:44'
+    - true
+  - - 5
+    - Techview Podcast
+    - http://linux-podcast.de/feed/mp3/
+    - http://linux-podcast.de
+    - 
+    - '2016-01-31 00:00:09.749990'
+    - '2017-01-08 11:04:00.742818'
+    - '2017-01-08 10:00:55'
+    - true
+  - - 6
+    - c't uplink
+    - http://www.heise.de/ct/uplink/ctuplink.rss
+    - http://www.heise.de/ct/uplink/ctuplink.rss
+    - 
+    - '2016-01-31 00:00:16.042784'
+    - '2017-01-22 03:45:15.635435'
+    - '2017-01-21 00:00:00'
+    - true
+  - - 7
+    - "[Der Weisheit]"
+    - http://blog.richter.fm/category/podcast/derweisheit/feed
+    - http://blog.richter.fm/category/podcast/derweisheit
+    - 
+    - '2016-01-31 00:00:47.356122'
+    - '2016-12-28 02:03:01.442567'
+    - '2016-12-27 14:00:49'
+    - true
+  - - 8
+    - "[Die Wahrheit] – richter.fm"
+    - http://blog.richter.fm/category/podcast/diewahrheit/feed/
+    - http://blog.richter.fm/category/podcast/diewahrheit
+    - 
+    - '2016-01-31 00:00:50.885615'
+    - '2016-11-25 15:44:39.619744'
+    - '2015-08-13 05:55:09.000000'
+    - true
+  - - 9
+    - Anerzählt
+    - http://anerzaehlt.net/feed/mp3/
+    - http://anerzaehlt.net
+    - 
+    - '2016-01-31 00:01:58.271180'
+    - '2017-01-22 03:45:22.462082'
+    - '2017-01-22 02:00:55'
+    - true
+  - - 10
+    - Vorgedacht
+    - http://www.vorgedacht.net/feed/mp3/
+    - http://www.vorgedacht.net
+    - 
+    - '2016-01-31 00:02:16.861866'
+    - '2016-11-25 15:45:16.864292'
+    - '2016-02-09 16:23:52.000000'
+    - true
+  - - 11
+    - Puerto Patida
+    - http://puertopatida.podspot.de/rss
+    - http://ohneq.de
+    - 
+    - '2016-01-31 00:02:29.276351'
+    - '2017-01-16 19:42:57.663097'
+    - '2017-01-16 15:00:12'
+    - true
+  - - 12
+    - Der Heissluftdampfer
+    - http://heissluftdampfer.de/feed/m4a.xml
+    - http://www.heissluftdampfer.de/
+    - 
+    - '2016-01-31 00:02:36.857447'
+    - '2016-11-25 15:45:09.172380'
+    - '2016-02-04 15:00:00.000000'
+    - true
+  - - 13
+    - Sanft & Sorgfältig | radioeins
+    - http://www.radioeins.de/archiv/podcast/zwei_alte_hasen.feed.podcast.xml
+    - http://www.radioeins.de/archiv/podcast/zwei_alte_hasen.html
+    - 
+    - '2016-01-31 00:02:39.006428'
+    - '2016-11-25 15:45:38.667646'
+    - '2016-05-08 15:57:00'
+    - true
+  - - 14
+    - Bewegtton
+    - http://files.tuximail.de/feeds/bewegtton-rss.xml
+    - http://bewegtton.de
+    - 
+    - '2016-01-31 00:03:20.993456'
+    - '2016-11-25 15:45:34.401791'
+    - '2016-03-25 12:22:23'
+    - true
+  - - 15
+    - Mikrodilettanten
+    - http://mikrodilettanten.de/feed/mp3/
+    - http://mikrodilettanten.de
+    - 
+    - '2016-01-31 00:03:33.759310'
+    - '2016-12-20 00:33:39.459485'
+    - '2016-12-19 16:44:29'
+    - true
+  - - 16
+    - Fressefreiheit » Fressefreiheit
+    - http://www.denkdreck.de/?cat=321&feed=rss2
+    - http://www.denkdreck.de
+    - 
+    - '2016-01-31 00:04:12.621600'
+    - '2016-11-25 15:44:46.962236'
+    - '2015-12-23 12:03:36.000000'
+    - true
+  - - 17
+    - proton
+    - http://proton-podcast.de/feed/mp3/
+    - http://proton-podcast.de
+    - 
+    - '2016-01-31 00:04:52.839467'
+    - '2016-12-25 00:22:57.651955'
+    - '2016-12-24 10:52:59'
+    - true
+  - - 18
+    - Phantastika
+    - http://phantastika.org/?feed=n-a
+    - http://phantastika.org
+    - 
+    - '2016-01-31 00:05:46.851184'
+    - '2016-11-25 15:45:24.302736'
+    - '2016-02-15 15:41:26.000000'
+    - true
+  - - 19
+    - Explikator
+    - http://explikator.de/feed/podcast/
+    - http://explikator.de/podcast
+    - 
+    - '2016-01-31 00:07:05.948245'
+    - '2017-01-23 00:28:51.240180'
+    - '2017-01-22 23:01:27'
+    - true
+  - - 20
+    - Das geheime Kabinett
+    - http://kabinett.hadar.uberspace.de/feed/kabinett/
+    - http://kabinett.hadar.uberspace.de
+    - 
+    - '2016-01-31 00:07:29.420021'
+    - '2016-11-25 15:45:03.073139'
+    - '2016-01-31 21:47:24.000000'
+    - true
+  - - 21
+    - Die Sprechwaisen
+    - https://feeds.feedburner.com/sprechwaisen
+    - http://www.sprechwaisen.com
+    - 
+    - '2016-01-31 00:07:34.347296'
+    - '2016-12-25 00:23:04.390936'
+    - '2016-12-24 10:54:47'
+    - true
+  - - 22
+    - Schmalzstullenministerium
+    - http://www.schmalzstullenministerium.de/feed/mp4/
+    - http://www.schmalzstullenministerium.de
+    - 
+    - '2016-01-31 00:07:44.688355'
+    - '2016-12-04 23:51:38.603545'
+    - '2016-12-04 20:59:03'
+    - true
+  - - 23
+    - Damals (tm) Podcast
+    - http://damals-tm-podcast.de/feed/damalstm-mp3/
+    - http://damals-tm-podcast.de
+    - 
+    - '2016-01-31 00:07:45.701573'
+    - '2016-11-25 15:45:15.251849'
+    - '2016-02-09 01:34:47.000000'
+    - true
+  - - 24
+    - Spoiler Alert
+    - http://spoileralert.bildungsangst.de/feed/mp4/
+    - http://spoileralert.bildungsangst.de
+    - 
+    - '2016-01-31 00:07:50.071894'
+    - '2016-11-25 15:46:45.987666'
+    - '2016-11-07 05:36:29'
+    - true
+  - - 25
+    - Second Unit
+    - https://feeds.feedburner.com/SecondUnit?format
+    - http://secondunit-podcast.de
+    - 
+    - '2016-01-31 00:07:51.198097'
+    - '2017-01-19 21:32:02.081868'
+    - '2017-01-19 11:38:48'
+    - true
+  - - 26
+    - "#GeekTalk Podcast"
+    - http://geektalk.ch/feed/podcast
+    - http://geektalk.ch
+    - 
+    - '2016-01-31 00:07:56.187327'
+    - '2017-01-18 19:47:05.126874'
+    - '2017-01-18 08:01:56'
+    - true
+  - - 27
+    - Robotiklabor
+    - http://www.robotiklabor.de/feed/itunes/
+    - https://www.robotiklabor.de
+    - 
+    - '2016-01-31 00:08:01.506860'
+    - '2017-01-08 12:27:36.335469'
+    - '2016-12-31 14:35:27'
+    - true
+  - - 28
+    - Die Goldene Zehn (m4a)
+    - http://g10.eu/feed/m4a/
+    - http://g10.eu
+    - 
+    - '2016-01-31 00:10:02.105290'
+    - '2017-01-05 02:08:00.083800'
+    - '2017-01-04 23:53:02'
+    - true
+  - - 29
+    - Working Draft
+    - http://workingdraft.de/feed/
+    - http://workingdraft.de
+    - 
+    - '2016-01-31 00:10:18.252635'
+    - '2016-12-29 12:07:56.014037'
+    - '2016-12-29 11:09:02'
+    - true
+  - - 30
+    - Der Lila Podcast
+    - http://lila-podcast.de/feed/m4a/
+    - http://lila-podcast.de
+    - 
+    - '2016-01-31 00:10:22.759982'
+    - '2017-01-12 19:47:17.167718'
+    - '2017-01-12 14:07:44'
+    - true
+  - - 31
+    - Chaosradio (Alle Sendungen)
+    - http://chaosradio.ccc.de/chaosradio-complete.rss
+    - http://chaosradio.ccc.de/chaosradio.html
+    - 
+    - '2016-01-31 00:10:27.439118'
+    - '2017-01-02 22:22:01.473130'
+    - '2017-01-02 16:30:00'
+    - true
+  - - 32
+    - Chaosradio
+    - http://chaosradio.ccc.de/chaosradio-latest.rss
+    - http://chaosradio.ccc.de/chaosradio.html
+    - 
+    - '2016-01-31 00:10:31.592947'
+    - '2017-01-02 22:22:05.267670'
+    - '2017-01-02 16:30:00'
+    - true
+  - - 33
+    - Raumzeit
+    - http://raumzeit-podcast.de/feed/m4a/
+    - http://raumzeit-podcast.de
+    - 
+    - '2016-01-31 00:10:34.960880'
+    - '2016-12-18 00:50:00.331585'
+    - '2016-12-17 22:08:18'
+    - true
+  - - 34
+    - In trockenen Büchern
+    - http://in-trockenen-buechern.de/feed/mp3/
+    - http://in-trockenen-buechern.de
+    - 
+    - '2016-01-31 00:10:40.619623'
+    - '2016-11-25 15:45:21.270557'
+    - '2016-02-13 11:56:23.000000'
+    - true
+  - - 35
+    - 'CRE: Technik, Kultur, Gesellschaft'
+    - http://cre.fm/feed/m4a
+    - http://cre.fm
+    - 
+    - '2016-01-31 00:10:49.131102'
+    - '2016-11-25 15:47:15.764129'
+    - '2016-11-19 01:09:57'
+    - true
+  - - 36
+    - Rechtsbelehrung - Jurapodcast mit Netzthemen
+    - http://rechtsanwalt-schwenke.de/feed/podcast/
+    - https://rechtsbelehrung.com
+    - 
+    - '2016-01-31 00:10:53.509117'
+    - '2017-01-12 00:46:18.536572'
+    - '2017-01-10 23:43:05'
+    - true
+  - - 37
+    - Forschergeist
+    - http://forschergeist.de/feed/m4a/
+    - http://forschergeist.de
+    - 
+    - '2016-01-31 00:10:58.615410'
+    - '2017-01-20 12:24:48.014302'
+    - '2017-01-20 10:00:50'
+    - true
+  - - 38
+    - Sendungsbewusstsein (AAC-128kb-Stereo)
+    - http://sendungsbewusstsein.info/?feed=aac128
+    - http://sendungsbewusstsein.info
+    - 
+    - '2016-01-31 00:13:25.441328'
+    - '2016-11-25 15:44:57.368591'
+    - '2016-01-18 13:29:33.000000'
+    - true
+  - - 39
+    - anyca.st
+    - http://anyca.st/feed/aac
+    - http://anyca.st
+    - 
+    - '2016-01-31 00:13:48.774429'
+    - '2016-11-25 15:47:03.442520'
+    - '2016-11-15 22:59:05'
+    - true
+  - - 40
+    - SozioPod
+    - http://soziopod.de/feed/podcast/
+    - http://soziopod.de
+    - 
+    - '2016-01-31 00:13:55.944250'
+    - '2016-12-18 20:40:00.130140'
+    - '2016-12-18 13:01:29'
+    - false
+  - - 41
+    - Troja Alert
+    - http://trojaalert.bildungsangst.de/feed/mp4/
+    - http://trojaalert.bildungsangst.de
+    - 
+    - '2016-01-31 00:13:57.503173'
+    - '2017-01-05 02:09:21.660005'
+    - '2017-01-03 21:39:33'
+    - true
+  - - 42
+    - Stimmen der Kulturwissenschaften
+    - http://stimmen.univie.ac.at/feed/mp3
+    - http://stimmen.univie.ac.at
+    - 
+    - '2016-01-31 00:14:06.482263'
+    - '2016-11-25 15:44:29.213498'
+    - '2014-11-03 15:37:28.000000'
+    - true
+  - - 43
+    - Einschlafen Podcast
+    - http://einschlafen-podcast.de/feed/aac/
+    - http://einschlafen-podcast.de
+    - 
+    - '2016-01-31 00:14:10.112409'
+    - '2017-01-19 02:36:41.907488'
+    - '2017-01-18 21:29:45'
+    - true
+  - - 44
+    - Aufwachen!
+    - http://aufwachen-podcast.de/feed/m4a/
+    - https://aufwachen-podcast.de
+    - 
+    - '2016-01-31 00:14:15.042183'
+    - '2017-01-20 12:25:04.160403'
+    - '2017-01-20 11:02:18'
+    - true
+  - - 45
+    - SR 2 - Fragen an den Autor
+    - http://pcast.sr-online.de/feeds/fragen/feed.xml
+    - http://www.sr.de/sr/sr2/sendungen_a-z/uebersicht/fragen_an_den_autor/index.html
+    - 
+    - '2016-01-31 00:14:33.193696'
+    - '2017-01-22 13:37:21.701142'
+    - '2017-01-22 11:00:04'
+    - true
+  - - 46
+    - Klassiker von "Fragen an den Autor"
+    - http://pcast.sr-online.de/feeds/sr2-fragen-klassiker/feed.xml
+    - http://www.sr.de/sr/sr2/sendungen_a-z/uebersicht/fragen_an_den_autor/index.html
+    - 
+    - '2016-01-31 00:14:39.946467'
+    - '2017-01-16 19:44:46.083086'
+    - '2017-01-16 09:33:48'
+    - true
+  - - 47
+    - Resonator
+    - http://resonator-podcast.de/feed/m4a/
+    - http://resonator-podcast.de
+    - 
+    - '2016-01-31 00:14:45.462177'
+    - '2017-01-20 15:46:52.929158'
+    - '2017-01-20 14:22:44'
+    - true
+  - - 48
+    - Psychotalk
+    - http://www.psycho-talk.de/feed/m4a/
+    - http://www.psycho-talk.de
+    - 
+    - '2016-01-31 00:14:50.421778'
+    - '2016-11-25 15:46:53.779177'
+    - '2016-11-12 17:12:23'
+    - true
+  - - 49
+    - Küchenradio (mp3)
+    - http://www.kuechenstud.io/kuechenradio/feed/mp3/
+    - http://www.kuechenstud.io/kuechenradio
+    - 
+    - '2016-01-31 00:14:53.491732'
+    - '2017-01-15 14:12:37.916893'
+    - '2017-01-15 14:01:41'
+    - true
+  - - 50
+    - Technische Aufklärung
+    - http://technische-aufklaerung.de/feed/m4a/
+    - http://technische-aufklaerung.de
+    - 
+    - '2016-01-31 00:14:54.984748'
+    - '2017-01-20 02:35:10.073199'
+    - '2017-01-20 01:40:37'
+    - true
+  - - 51
+    - Nerd Emissionen
+    - http://nerdemissionen.de/feed/m4a/
+    - http://nerdem.de
+    - 
+    - '2016-01-31 00:14:59.690877'
+    - '2017-01-22 03:46:38.129765'
+    - '2017-01-22 01:11:12'
+    - true
+  - - 52
+    - Kulturpessimisten
+    - http://die-kulturpessimisten.de/feed/mp4/
+    - https://die-kulturpessimisten.de
+    - 
+    - '2016-01-31 00:15:05.212790'
+    - '2016-12-29 04:02:34.019675'
+    - '2016-12-28 16:27:01'
+    - true
+  - - 53
+    - Metrolaut
+    - https://www.metronaut.de/feed/mp4/
+    - https://www.metronaut.de
+    - 
+    - '2016-01-31 00:15:09.287294'
+    - '2017-01-13 21:48:48.563738'
+    - '2017-01-13 18:51:29'
+    - true
+  - - 54
+    - Hoaxilla - Der skeptische Podcast aus Hamburg
+    - http://www.hoaxilla.de/podcast/hoaxilla.xml
+    - http://www.hoaxilla.de
+    - 
+    - '2016-01-31 00:15:15.113277'
+    - '2016-12-08 20:50:31.848750'
+    - '2016-12-08 21:00:00'
+    - true
+  - - 55
+    - Wir. Müssen Reden
+    - http://wir.muessenreden.de/feed/podcast/
+    - https://wir.muessenreden.de
+    - 
+    - '2016-01-31 00:15:16.571628'
+    - '2017-01-19 21:33:16.818397'
+    - '2017-01-19 19:14:39'
+    - true
+  - - 56
+    - Wer redet ist nicht tot
+    - http://www.wrint.de/feed/podcast/
+    - http://www.wrint.de/kommt-reden-wir-zusammen/
+    - 
+    - '2016-01-31 00:15:27.514069'
+    - '2017-01-22 03:46:43.525851'
+    - '2017-01-21 07:00:00'
+    - true
+  - - 57
+    - Freak Show
+    - http://freakshow.fm/feed/m4a/
+    - http://freakshow.fm
+    - 
+    - '2016-01-31 00:15:32.466221'
+    - '2017-01-12 03:22:23.443073'
+    - '2017-01-12 02:31:54'
+    - true
+  - - 58
+    - Logbuch:Netzpolitik
+    - http://feeds.metaebene.me/lnp/m4a
+    - http://logbuch-netzpolitik.de
+    - 
+    - '2016-01-31 00:15:41.242310'
+    - '2017-01-16 19:45:03.717188'
+    - '2017-01-16 15:50:07'
+    - true
+  - - 59
+    - Podcast_Alles_Kurzfeed – Wer redet ist nicht tot
+    - http://www.wrint.de/category/podcast_alles_kurzfeed/feed/
+    - http://www.wrint.de/kommt-reden-wir-zusammen/
+    - 
+    - '2016-01-31 00:16:01.226816'
+    - '2017-01-22 03:46:47.953847'
+    - '2017-01-21 07:00:00'
+    - true
+  - - 60
+    - Methodisch inkorrekt
+    - http://minkorrekt.de/feed/m4a/
+    - http://minkorrekt.de
+    - 
+    - '2016-01-31 00:16:07.617896'
+    - '2017-01-10 19:21:32.153406'
+    - '2017-01-10 08:00:35'
+    - true
+  - - 61
+    - Not Safe For Work
+    - http://not-safe-for-work.de/feed/m4a/
+    - http://not-safe-for-work.de
+    - 
+    - '2016-01-31 00:16:09.559742'
+    - '2016-11-25 15:46:06.869234'
+    - '2016-09-15 13:01:56'
+    - true
+  - - 62
+    - podcast – omega tau science & engineering podcast
+    - http://omegataupodcast.net/category/podcast/feed/
+    - http://omegataupodcast.net
+    - 
+    - '2016-01-31 00:16:19.078267'
+    - '2017-01-22 13:38:35.844879'
+    - '2017-01-22 08:12:05'
+    - true
+  - - 63
+    - Metercast - Podcast
+    - http://feeds.soundcloud.com/users/soundcloud:users:107057241/sounds.rss
+    - http://www.metercast.de
+    - 
+    - '2016-01-31 00:53:22.526778'
+    - '2017-01-22 03:46:52.778215'
+    - '2017-01-21 20:05:40'
+    - true
+  - - 64
+    - Compyblog
+    - http://www.compyblog.de/feeds/index.rss2
+    - http://www.compyblog.de/
+    - 
+    - '2016-01-31 00:55:11.490930'
+    - '2017-01-22 20:57:19.391553'
+    - '2017-01-22 19:00:00'
+    - true
+  - - 65
+    - Dirty Minutes Left (DML)
+    - http://www.dirtyminutesleft.de/feed/mp3/
+    - http://www.dirtyminutesleft.de
+    - 
+    - '2016-01-31 00:57:27.140222'
+    - '2016-11-25 15:45:28.207214'
+    - '2016-02-21 19:56:36.000000'
+    - true
+  - - 66
+    - Fanboys
+    - http://fanboys.fm/episodes.mp3.rss
+    - http://fanboys.fm
+    - 
+    - '2016-01-31 01:03:00.059402'
+    - '2017-01-19 21:33:30.079427'
+    - '2017-01-19 13:39:33'
+    - true
+  - - 67
+    - Isolierstation Podcast
+    - http://www.radiorocker.de/isolierstation/feed
+    - http://www.radiorocker.de/isolierstation
+    - 
+    - '2016-01-31 01:04:21.383078'
+    - '2017-01-12 00:47:00.016537'
+    - '2017-01-11 15:52:58'
+    - true
+  - - 68
+    - The InSnider
+    - http://theinsnider.de/feed/m4a/
+    - http://theinsnider.de
+    - 
+    - '2016-01-31 01:15:56.199786'
+    - '2017-01-03 18:59:05.315374'
+    - '2017-01-03 05:00:38'
+    - true
+  - - 69
+    - Sternengeschichten
+    - http://feeds.feedburner.com/sternengeschichten
+    - http://scienceblogs.de/astrodicticum-simplex/sternengeschichten/
+    - 
+    - '2016-01-31 01:17:31.469499'
+    - '2017-01-20 12:25:39.238259'
+    - '2017-01-20 06:00:00'
+    - true
+  - - 70
+    - Schöne Ecken
+    - https://www.schoene-ecken.de/feed/podcast/
+    - https://schoene-ecken.de
+    - 
+    - '2016-01-31 01:18:43.556369'
+    - '2016-11-25 15:45:26.541946'
+    - '2016-02-18 00:00:21.000000'
+    - true
+  - - 71
+    - genusscast
+    - http://www.genusscast.de/feed/mp3/
+    - https://www.genusscast.de
+    - 
+    - '2016-01-31 03:57:01.904015'
+    - '2017-01-02 22:24:20.070730'
+    - '2017-01-02 15:56:26'
+    - true
+  - - 72
+    - This American Life
+    - http://feed.thisamericanlife.org/talpodcast
+    - https://www.thisamericanlife.org
+    - 
+    - '2016-01-31 03:59:03.439852'
+    - '2017-01-23 00:29:54.322939'
+    - '2017-01-23 00:00:00'
+    - true
+  - - 73
+    - Serial
+    - http://feeds.serialpodcast.org/serialpodcast
+    - https://serialpodcast.org
+    - 
+    - '2016-01-31 04:00:27.589452'
+    - '2016-11-25 15:45:35.989125'
+    - '2016-03-31 09:30:00'
+    - true
+  - - 74
+    - 1337@kultur:~$
+    - https://1337kultur.de/feed/podcast/
+    - https://1337kultur.de
+    - 
+    - '2016-01-31 04:10:32.752677'
+    - '2016-11-25 15:45:46.877669'
+    - '2016-06-21 09:56:36'
+    - true
+  - - 75
+    - Raidenger.de
+    - http://raidenger.de/category/podcast/feed/
+    - http://raidenger.de
+    - 
+    - '2016-01-31 04:12:15.886455'
+    - '2017-01-10 23:53:02.363955'
+    - '2017-01-10 21:50:36'
+    - true
+  - - 76
+    - anyca.st
+    - http://anyca.st/feed/mp3/
+    - http://anyca.st
+    - 
+    - '2016-01-31 04:13:47.350540'
+    - '2016-11-25 15:47:02.986816'
+    - '2016-11-15 22:59:05'
+    - true
+  - - 77
+    - Eine Stunde Talk - DRadio Wissen
+    - http://dradiowissen.de/podcast/eine-stunde-talk
+    - http://dradiowissen.de/eine-stunde-talk
+    - 
+    - '2016-01-31 04:16:45.745491'
+    - '2017-01-18 19:49:08.931610'
+    - '2017-01-18 14:27:15'
+    - true
+  - - 78
+    - Hörsaal - DRadio Wissen
+    - http://dradiowissen.de/podcast/hoersaal-der-podcast
+    - http://dradiowissen.de/hoersaal
+    - 
+    - '2016-01-31 04:18:17.073274'
+    - '2017-01-22 20:57:29.599286'
+    - '2017-01-20 12:26:22'
+    - true
+  - - 79
+    - Eine Stunde Netz - DRadio Wissen
+    - http://dradiowissen.de/podcast/eine-stunde-netz
+    - http://dradiowissen.de/eine-stunde-netz
+    - 
+    - '2016-01-31 04:19:24.561393'
+    - '2016-11-25 15:44:43.652888'
+    - '2015-11-25 13:59:54.000000'
+    - true
+  - - 80
+    - Eine Stunde Film - DRadio Wissen
+    - http://dradiowissen.de/podcast/eine-stunde-film
+    - http://dradiowissen.de/eine-stunde-film
+    - 
+    - '2016-01-31 04:20:35.485876'
+    - '2017-01-18 19:49:09.193636'
+    - '2017-01-17 15:50:13'
+    - true
+  - - 81
+    - Eine Stunde Liebe - DRadio Wissen
+    - http://dradiowissen.de/podcast/eine-stunde-liebe
+    - http://dradiowissen.de/eine-stunde-liebe
+    - 
+    - '2016-01-31 04:21:14.208093'
+    - '2017-01-20 22:59:12.226962'
+    - '2017-01-20 12:27:29'
+    - true
+  - - 82
+    - Eine Stunde Was mit Medien - DRadio Wissen
+    - http://dradiowissen.de/podcast/eine-stunde-medien
+    - http://dradiowissen.de/eine-stunde-medien
+    - 
+    - '2016-01-31 04:24:12.975156'
+    - '2017-01-19 21:33:41.166560'
+    - '2017-01-19 16:05:52'
+    - true
+  - - 83
+    - Einhundert - DRadio Wissen
+    - http://dradiowissen.de/podcast/einhundert
+    - http://dradiowissen.de/einhundert
+    - 
+    - '2016-01-31 04:25:02.073429'
+    - '2017-01-20 17:34:28.260489'
+    - '2017-01-20 14:52:16'
+    - true
+  - - 84
+    - Magazin (mp3)
+    - http://feeds.podtrac.com/013SpaPV1GjT
+    - http://podunion.com/podunion-podcast/magazin
+    - 
+    - '2016-01-31 04:27:15.791337'
+    - '2016-11-25 15:45:42.061676'
+    - '2016-05-30 08:00:20'
+    - true
+  - - 86
+    - Kiezradio
+    - http://www.kiezradio.org/feed/podcast/
+    - http://www.kiezradio.org
+    - 
+    - '2016-01-31 04:30:56.508917'
+    - '2016-11-25 15:44:30.417327'
+    - '2015-03-25 20:11:11.000000'
+    - true
+  - - 87
+    - Angegraben - Der archäologische Podcast
+    - http://buddler.atria.uberspace.de/feed/angegraben/
+    - http://buddler.atria.uberspace.de
+    - 
+    - '2016-02-03 03:04:47.447059'
+    - '2016-11-25 15:45:31.471703'
+    - '2016-03-09 21:01:39'
+    - true
+  - - 88
+    - Countdown
+    - http://countdown-podcast.de/feed/mp3/
+    - http://countdown-podcast.de
+    - 
+    - '2016-02-03 03:07:52.889570'
+    - '2017-01-14 18:26:30.810182'
+    - '2017-01-14 08:00:20'
+    - true
+  - - 89
+    - GET started
+    - http://get.started.at/feed/podcast/
+    - http://get.started.at
+    - 
+    - '2016-02-03 03:09:31.061355'
+    - '2016-12-07 19:54:10.579579'
+    - '2016-12-07 11:24:05'
+    - true
+  - - 90
+    - Fokus Europa
+    - http://fokus-europa.de/feed/m4a/
+    - http://fokus-europa.de
+    - 
+    - '2016-02-03 03:15:02.733480'
+    - '2017-01-18 19:49:17.726614'
+    - '2017-01-18 10:39:27'
+    - true
+  - - 91
+    - Fnordfunk
+    - http://fnordfunk.de/feed/
+    - http://fnordfunk.de
+    - 
+    - '2016-02-03 03:18:58.079274'
+    - '2017-01-08 14:44:27.010342'
+    - '2017-01-08 12:59:15'
+    - true
+  - - 92
+    - nerdic talking
+    - http://www.nerdic-talking.fm/?feed=nt
+    - http://www.nerdic-talking.fm
+    - 
+    - '2016-02-03 03:20:00.668316'
+    - '2017-01-18 19:49:19.888159'
+    - '2017-01-18 08:58:35'
+    - true
+  - - 93
+    - SundayMoaning Cast
+    - http://sundaymoaning.fracker.de/feed/
+    - http://sundaymoaning.fracker.de
+    - 
+    - '2016-02-03 03:21:00.002206'
+    - '2017-01-11 00:40:25.815023'
+    - '2015-03-15 18:21:33'
+    - true
+  - - 94
+    - FluxFM
+    - http://www.fluxfm.de/feed/
+    - http://www.fluxfm.de
+    - 
+    - '2016-02-03 03:23:01.301201'
+    - '2017-01-20 19:33:08.869815'
+    - '2017-01-20 18:12:57'
+    - true
+  - - 95
+    - FluxFM » Spreeblick
+    - http://www.fluxfm.de/feed/spreeblick-podcast/
+    - http://www.fluxfm.de
+    - 
+    - '2016-02-03 03:25:31.469253'
+    - '2017-01-16 19:45:33.467738'
+    - '2017-01-16 07:00:42'
+    - true
+  - - 96
+    - Robotiklabor
+    - http://www.robotiklabor.de/feed/mp3/
+    - http://www.robotiklabor.de
+    - 
+    - '2016-02-03 03:26:35.709703'
+    - '2016-12-31 15:42:04.623052'
+    - '2016-12-31 14:35:27'
+    - true
+  - - 97
+    - Breitband
+    - http://breitband.deutschlandradiokultur.de/feed/
+    - http://breitband.deutschlandradiokultur.de
+    - 
+    - '2016-02-03 03:27:38.409685'
+    - '2017-01-22 03:47:14.786197'
+    - '2017-01-21 11:37:02'
+    - true
+  - - 98
+    - Happy Shooting - Der Foto-Podcast
+    - http://feeds.happyshooting.de/happyshooting
+    - http://www.happyshooting.de/podcast
+    - 
+    - '2016-02-03 03:29:20.671200'
+    - '2017-01-19 21:33:53.144693'
+    - '2017-01-19 04:00:41'
+    - true
+  - - 99
+    - Bartocast
+    - http://bartocast.de/?feed=podcast
+    - http://bartocast.de
+    - 
+    - '2016-02-03 03:30:25.689073'
+    - '2017-01-08 03:42:03.123374'
+    - '2017-01-07 09:37:43'
+    - true
+  - - 100
+    - Feuilletöne - Kultursendung für Musik, Film, Serie und Literatur
+    - http://www.feuilletoene.de/feed/mp3/
+    - http://www.feuilletoene.de
+    - 
+    - '2016-02-03 03:31:20.548202'
+    - '2017-01-21 02:47:22.124375'
+    - '2017-01-21 00:34:48'
+    - true
+  - - 101
+    - Elementarfragen
+    - http://viertausendhertz.de/feed/podcast/elementarfragen
+    - http://viertausendhertz.de/
+    - 
+    - '2016-02-07 05:01:40.335645'
+    - '2016-12-17 17:48:18.304184'
+    - '2016-12-17 13:02:26'
+    - true
+  - - 102
+    - Kolophon Podcast
+    - http://kolophon.oreilly.de/feed/
+    - http://kolophon.oreilly.de
+    - 
+    - '2016-02-07 05:05:15.791075'
+    - '2016-11-25 15:45:19.032777'
+    - '2016-02-12 00:43:19.000000'
+    - true
+  - - 103
+    - "/dev/radio"
+    - http://ulm.ccc.de/dev/radio/podcast.xml
+    - http://ulm.ccc.de/dev/radio/
+    - 
+    - '2016-02-07 05:06:07.529320'
+    - '2016-11-25 15:44:20.421611'
+    - '2004-01-25 13:37:42.000000'
+    - true
+  - - 104
+    - the memory palace
+    - https://feeds.feedburner.com/thememorypalace
+    - http://thememorypalace.us
+    - 
+    - '2016-02-17 21:16:13.471675'
+    - '2017-01-20 12:26:11.436416'
+    - '2017-01-20 05:22:54'
+    - true
+  - - 105
+    - Gästeliste Geisterbahn
+    - https://feeds.podtrac.com/qdtNd8thRzOp
+    - http://gaestelistegeisterbahn.de/
+    - 
+    - '2016-10-31 00:51:31.956356'
+    - '2017-01-16 19:45:40.646809'
+    - '2017-01-16 15:12:20'
+    - true
+  - - 106
+    - "[ohm] – monoxyd"
+    - http://monoxyd.de/category/ohm/feed
+    - http://monoxyd.de/category/ohm
+    - 
+    - '2016-10-31 00:54:58.210106'
+    - '2017-01-08 23:38:18.700276'
+    - '2017-01-08 20:26:48'
+    - true
+  - - 107
+    - Hintergrund - Deutschlandfunk
+    - http://www.deutschlandfunk.de/podcast-hintergrund.725.de.podcast.xml
+    - http://www.deutschlandfunk.de/hintergrund.723.de.html
+    - 
+    - '2016-10-31 00:56:44.677702'
+    - '2017-01-22 20:57:50.427959'
+    - '2017-01-22 17:40:00'
+    - true
+  - - 108
+    - hr2 Der Tag
+    - http://podcast.hr2.de/derTag/podcast.xml
+    - http://www.hr2.de/
+    - 
+    - '2016-10-31 00:57:44.334961'
+    - '2017-01-20 19:33:16.658702'
+    - '2017-01-20 18:00:00'
+    - true
+  - - 109
+    - Medienradio
+    - http://www.kuechenstud.io/medienradio/feed/mp3/
+    - http://www.kuechenstud.io/medienradio
+    - 
+    - '2016-10-31 00:58:42.606456'
+    - '2016-11-26 03:54:26.883852'
+    - '2015-04-15 18:41:01'
+    - true
+  - - 110
+    - Modellansatz
+    - http://modellansatz.de/rss/
+    - http://modellansatz.de/
+    - 
+    - '2016-10-31 00:59:45.782213'
+    - '2017-01-19 21:34:01.963058'
+    - '2017-01-19 10:30:00'
+    - true
+  - - 111
+    - radioZWEI | radioeins
+    - https://www.radioeins.de/archiv/podcast/radiozwei.feed.podcast.xml
+    - http://www.radioeins.de/archiv/podcast/radiozwei.html
+    - 
+    - '2016-10-31 01:00:48.742678'
+    - '2017-01-20 19:33:18.711608'
+    - '2017-01-20 18:00:00'
+    - true
+  - - 112
+    - vorHundert
+    - http://vorhundert.de/feed/n-a/
+    - http://vorhundert.de
+    - 
+    - '2016-10-31 01:02:06.896112'
+    - '2017-01-09 20:00:38.346394'
+    - '2017-01-09 12:28:09'
+    - true
+  - - 113
+    - teenagersexbeichte
+    - http://teenagersexbeichte.de/feed/tsbfeed/
+    - http://teenagersexbeichte.de
+    - 
+    - '2016-10-31 01:03:04.353442'
+    - '2016-12-30 13:24:47.444622'
+    - '2016-12-30 11:49:17'
+    - true
+  - - 114
+    - Übermedien
+    - https://feeds.soundcloud.com/users/soundcloud:users:191231473/sounds.rss
+    - http://uebermedien.de
+    - 
+    - '2016-10-31 01:05:24.585114'
+    - '2016-11-05 11:58:28.247190'
+    - '2016-11-04 22:08:48'
+    - true
+  - - 115
+    - Lage der Nation
+    - http://www.kuechenstud.io/lagedernation/feed/mp3/
+    - http://www.kuechenstud.io/lagedernation
+    - 
+    - '2016-10-31 01:06:05.448090'
+    - '2017-01-22 03:47:49.341181'
+    - '2017-01-21 10:11:57'
+    - true
+  - - 116
+    - Zeitsprung
+    - http://www.zeitsprung.fm/feed/mp4/
+    - http://www.zeitsprung.fm
+    - 
+    - '2016-10-31 01:07:25.332468'
+    - '2017-01-18 19:49:39.439165'
+    - '2017-01-18 09:15:47'
+    - true
+  - - 117
+    - Staatsbürgerkunde
+    - http://www.staatsbuergerkunde-podcast.de/feed/mp3-rss
+    - http://www.staatsbuergerkunde-podcast.de
+    - 
+    - '2016-10-31 01:08:34.155520'
+    - '2017-01-08 23:38:37.679168'
+    - '2017-01-08 17:14:55'
+    - true
+  - - 118
+    - Alternativlos
+    - http://alternativlos.org/alternativlos.rss
+    - http://www.alternativlos.org/
+    - 
+    - '2016-10-31 01:09:17.563962'
+    - '2016-12-04 19:09:43.522889'
+    - '2016-12-04 14:39:48'
+    - true
+  - - 119
+    - Das geheime Kabinett
+    - http://kabinett.hadar.uberspace.de/?feed=kabinett
+    - http://kabinett.hadar.uberspace.de
+    - 
+    - '2016-11-07 01:08:17.260646'
+    - '2017-01-19 21:34:08.400699'
+    - '2017-01-19 21:07:03'
+    - true
+  - - 120
+    - The Secret Cabinet
+    - http://geheim.bellatrix.uberspace.de/feed/cabinet/
+    - http://secret-cabinet.com
+    - 
+    - '2016-11-07 01:36:53.445797'
+    - '2017-01-05 19:50:28.594713'
+    - '2017-01-05 02:56:11'
+    - true
+  - - 121
+    - FP's The Editor's Roundtable (The E.R.)
+    - http://the-e-r-podcast.foreignpolicy.com/
+    - http://foreignpolicy.com
+    - 
+    - '2016-11-11 13:58:43.941028'
+    - '2017-01-17 19:18:00.718223'
+    - '2017-01-17 15:48:57'
+    - true
+  - - 122
+    - No Agenda
+    - http://feed.nashownotes.com/rss.xml
+    - http://noagendashow.com
+    - 
+    - '2016-11-11 14:00:10.556605'
+    - '2017-01-22 20:58:00.844065'
+    - '2017-01-22 20:48:52'
+    - true
+  - - 123
+    - WDR 5 Das philosophische Radio
+    - http://www1.wdr.de/mediathek/audio/wdr5/wdr5-das-philosophische-radio/dasphilosophischeradio100.podcast
+    - http://www1.wdr.de/mediathek/audio/wdr5/wdr5-das-philosophische-radio/dasphilosophischeradio100.html
+    - 
+    - '2016-12-23 19:28:54.496783'
+    - '2017-01-20 22:59:40.634466'
+    - '2017-01-20 19:05:47'
+    - true
+  - - 124
+    - Die Esel und Teddy Show
+    - http://esel-und-teddy.podspot.de/rss
+    - http://www.esel-und-teddy.de
+    - 
+    - '2017-01-11 02:38:12.192340'
+    - '2017-01-11 02:38:12.192340'
+    - '2017-01-08 20:19:00'
+    - true
+  - - 125
+    - Internet History Podcast
+    - https://feeds.feedburner.com/InternetHistoryPodcast
+    - http://www.internethistorypodcast.com
+    - 
+    - '2017-01-21 02:12:59.815621'
+    - '2017-01-21 02:12:59.815621'
+    - '2017-01-16 00:09:23'
+    - true
+  - - 126
+    - Fresh Air
+    - https://www.npr.org/rss/podcast.php?id=381444908
+    - http://www.npr.org/programs/fresh-air/
+    - 
+    - '2017-01-22 14:09:57.668638'
+    - '2017-01-22 14:09:57.668638'
+    - '2017-01-21 01:00:00'
+    - true
