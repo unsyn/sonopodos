@@ -20,10 +20,10 @@ and the [Bundler](https://bundler.io/) gem installed.
 * Then, clone or download+unpack this project and navigate to the project directory on your computer.
 * Get some needed ruby libraries: `bundle install`
 * Get some needed javascript libraries: `npm install`
-* Create a database file: `rake db:create RAILS_ENV=production`
-* Configure the database: `rake db:migrate RAILS_ENV=production`
-* Optional: if you want some (mostly german) podcasts added to the db, run `rake db:data:load RAILS_ENV=production`
-* Generate some files to run on inside the browser: `rake assets:precompile RAILS_ENV=production`
+* Create a database file: `bundle exec rake db:create RAILS_ENV=production`
+* Configure the database: `bundle exec rake db:migrate RAILS_ENV=production`
+* Optional: if you want some (mostly German) podcasts added to the db, run `bundle exec rake db:data:load RAILS_ENV=production`
+* Generate some files to run inside the browser: `bundle exec rake assets:precompile RAILS_ENV=production`
 * Run the app: `rails s -e production`
 * Open your browser at [http://localhost:3000](http://localhost:3000)
 
